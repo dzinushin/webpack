@@ -1,5 +1,5 @@
 
-function getText() {
+const getText = () => {
     return 'Webpack & Babel is cool';
 }
 
